@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 94A0-9E1F
+
+ Directory of C:\Users\RAVI KUMAR\OneDrive\Desktop\project
+
+04-02-2022  22:35    <DIR>          .
+04-02-2022  22:34    <DIR>          ..
+04-02-2022  22:35                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  439,832,170,496 bytes free
